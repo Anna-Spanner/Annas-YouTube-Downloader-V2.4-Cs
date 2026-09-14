@@ -1,6 +1,0 @@
-{
-    "dotnet.defaultSolution": "Anna's YouTube Downloader.slnx",
-    "files.readonlyInclude": {
-        "{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
-    }
-}
